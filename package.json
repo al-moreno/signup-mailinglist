@@ -1,0 +1,24 @@
+{
+  "name": "signup-mailinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al-moreno/signup-mailinglist.git"
+  },
+  "author": "Ana L Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al-moreno/signup-mailinglist/issues"
+  },
+  "homepage": "https://github.com/al-moreno/signup-mailinglist#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
